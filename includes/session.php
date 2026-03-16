@@ -48,15 +48,5 @@
           4. Returns the matching user row if found
 	*/
 	
-	
-?>
 
-
-
-
-
-
-
-
-
-
+// End of session.php – do NOT add any whitespace, new lines, or closing ?> tag after this line
